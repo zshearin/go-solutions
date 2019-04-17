@@ -1,0 +1,4 @@
+./flags -s Go -isawesome -howawesome 10 -c 1,2,3
+
+
+./flags -h 
